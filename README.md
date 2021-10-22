@@ -1,4 +1,4 @@
-# ⚽️ tuttocampo_webscraper
+# ⚽️ Tuttocampo Webscraper 
 Webscraper in 🐍 to get the ranks of all the italians football competition
 
 ## ❓ How to use?
