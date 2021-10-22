@@ -1,5 +1,5 @@
 # ⚽️ tuttocampo_webscraper
-Webscraper to get the ranks of all the italians football competition
+Webscraper in 🐍 to get the ranks of all the italians football competition
 
 ## ❓ How to use?
 Add in the folder that you download with the code a file of enviroment called
