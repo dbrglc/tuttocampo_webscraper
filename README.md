@@ -1,5 +1,6 @@
 # ⚽️ Tuttocampo Webscraper 
-Webscraper in 🐍 to get the ranks of all the italians football competition
+Webscraper in 🐍 to get the ranks of any italians football league on www.tuttocampo.it.
+In this site you can find from the Serie A to the last league in Italy.
 
 ## ❓ How to use?
 Add in the folder that you download with the code a file of enviroment called
